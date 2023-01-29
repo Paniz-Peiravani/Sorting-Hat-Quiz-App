@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/last"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ResultActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="350dp"
+        android:text="Username:"
+        android:textColor="@android:color/white"
+        android:textSize="30sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/final_house"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="House: "
+        android:textColor="@android:color/background_light"
+        android:textSize="60dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/tv_Congratulation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Congratulation!"
+        android:textColor="@android:color/white"
+        android:textSize="30dp"
+        android:textStyle="italic" />
+
+
+
+</LinearLayout>
