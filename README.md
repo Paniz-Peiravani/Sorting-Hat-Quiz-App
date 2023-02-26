@@ -1,5 +1,5 @@
 # SortingHatQuizApp
-Welcome to Hogwarts! [harrypotter.png](http://i.imgur.com/zVuELlL.jpg)
+Welcome to Hogwarts! src: http://i.imgur.com/zVuELlL.jpg
 Want to know which Hogwarts House would you fall into? Come and let the Sorting Hat cast judgement upon you to be sorted into your houses. 
 There are:
 Gryffindor http://i.imgur.com/txG4Tm6.jpg
