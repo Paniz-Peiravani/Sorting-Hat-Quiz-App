@@ -10,4 +10,4 @@ Ravenclaw <img src="https://user-images.githubusercontent.com/100456553/22144705
 slytherin <img src="https://user-images.githubusercontent.com/100456553/221447029-a621047b-b5c4-4ece-965e-4d9b6c8038bd.png" width="30" height="30"> <br />
 
 ### Language and Tools
-
+<img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
