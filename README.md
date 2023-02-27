@@ -11,19 +11,32 @@ slytherin <img src="https://user-images.githubusercontent.com/100456553/22144702
 
 
 # Android Studio
-## xml sections
-Jump on to xml sections in android studio for app design <br />
+## .xml sections
+### Jump on to xml sections in android studio for app design <br />
 
-activity_Mai.xml which is the design for the first page when a user opens the app <br />
+activity_Mai.xml -> which is the design for the first page when a user opens the app <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_main.xml
 
-activity_quiz_questions.xml which is the design for questions sections <br />
+activity_quiz_questions.xml -> which is the design for questions sections <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_quiz_questions.xml
 
-activity_result.xml which is the last design page that shows the user what house they are sorted to <br />
+activity_result.xml -> which is the last design page that shows the user what house they are sorted to <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_result.xml
 
 ## .java sections
+### Jump on to .java in android studio for java classes <br />
 
-### Language and Tools
+MainActivity.java -> which is class for first window of the app that ask the user name to show at the end
+https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/MainActivity.java
+
+Questions.java ->Questions and Answers class that contains getter and setter
+https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
+
+QuizQuestionsActivity.java -> Display the questions class
+https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
+
+ResultActivity.java -> Sorting the Hogwarts house and show the result
+https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/ResultActivity.java
+
+# Language and Tools
 <img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
