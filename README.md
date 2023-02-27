@@ -1,2 +1,2 @@
 # SortingHatQuizApp
-Welcome to Hogward! ![Alt Text](http://i.imgur.com/zVuELlL.jpg)
+Welcome to Hogward! <img src='(http://i.imgur.com/zVuELlL.jpg' width='25'>
