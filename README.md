@@ -1,5 +1,6 @@
 # SortingHatQuizApp
-Welcome to Hogward! <img src="http://i.imgur.com/zVuELlL.jpg" width="30" height="30"> <br />
+Welcome to Hogward! <img src="https://user-images.githubusercontent.com/100456553/221446736-63f1e772-681d-402d-a545-76583ebce53c.png" width="25" height="25"> <br />
+
 Want to know which Hogwarts House would you fall into? Come and let the Sorting Hat cast judgement upon you! <img src="https://user-images.githubusercontent.com/100456553/221446502-4b2115f4-64f4-4859-b603-f620a60d5213.png" width="30" height="30"><br />
 
 There are four houses <br />
