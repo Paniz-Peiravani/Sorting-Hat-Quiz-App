@@ -1,4 +1,4 @@
-# SortingHatQuizApp
+# Sorting Hat Quiz App
 Welcome to Hogward! <img src="https://user-images.githubusercontent.com/100456553/221447115-716391c9-f828-491b-b34e-91ec53f2dc45.png" width="40" height="40"> <br />
 
 Want to know which Hogwarts House would you fall into? Come and let the Sorting Hat <img src="https://user-images.githubusercontent.com/100456553/221446502-4b2115f4-64f4-4859-b603-f620a60d5213.png" width="35" height="35"> cast judgement upon you! <br />
@@ -37,6 +37,10 @@ https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/ja
 
 ResultActivity.java -> Sorting the Hogwarts house and show the result
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/ResultActivity.java
+
+# App Overview
+<img src="https://user-images.githubusercontent.com/100456553/227699864-42e4ce59-22cb-4588-8426-5146c23340c5.png" width="80" height="150"> <br />
+
 
 # Language and Tools
 <img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="50" height="50"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="50" height="50">
