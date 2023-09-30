@@ -26,13 +26,13 @@ https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/re
 ## .java sections
 ### Jump on to .java in android studio for java classes <br />
 
-MainActivity.java -> which is class for first window of the app that ask the user name to show at the end
+MainActivity.java -> which is class for first window of the app that ask the user name to show at the end <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/MainActivity.java
 
-Questions.java ->Questions and Answers class that contains getter and setter
+Questions.java ->Questions and Answers class that contains getter and setter <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
 
-QuizQuestionsActivity.java -> Display the questions class
+QuizQuestionsActivity.java -> Display the questions class <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
 
 ResultActivity.java -> Sorting the Hogwarts house and show the result
@@ -57,4 +57,4 @@ __________________________________________________________________________ <br /
 <img src="https://user-images.githubusercontent.com/100456553/227700125-e8de7c26-7145-4faf-a436-345a472006cd.png" width="100" height="210" />
 
 # Language and Tools
-<img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="110" height="110"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="100" height="10">
+<img src="https://user-images.githubusercontent.com/100456553/221447905-01a3da11-262c-4a14-8495-e5a78da71b49.png" width="110" height="110"> <img src="https://user-images.githubusercontent.com/100456553/221447923-2ced3945-ab03-4dd0-b32a-12c7a56eb1c7.png" width="100" height="100">
