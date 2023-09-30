@@ -1,26 +1,26 @@
 # Sorting Hat Quiz App
 Welcome to Hogward! <img src="https://user-images.githubusercontent.com/100456553/221447115-716391c9-f828-491b-b34e-91ec53f2dc45.png" width="50" height="50"> <br />
 
-Want to know which Hogwarts House would you fall into? Come and let the Sorting Hat <img src="https://user-images.githubusercontent.com/100456553/221446502-4b2115f4-64f4-4859-b603-f620a60d5213.png" width="35" height="35"> cast judgement upon you! <br />
+Want to know which Hogwarts House you would fall into? Come and let the Sorting Hat <img src="https://user-images.githubusercontent.com/100456553/221446502-4b2115f4-64f4-4859-b603-f620a60d5213.png" width="35" height="35"> cast judgment upon you! <br />
 
 There are four houses: <br />
 Gryffindor <img src="https://user-images.githubusercontent.com/100456553/221447072-e937dfb3-953a-47ee-a438-51b657d06157.png" width="30" height="30"> <br />
-hufflepuff <img src="https://user-images.githubusercontent.com/100456553/221447612-5951635a-6d82-4476-bde6-6e22239af9a0.png" width="32" height="32"> <br />
+Hufflepuff <img src="https://user-images.githubusercontent.com/100456553/221447612-5951635a-6d82-4476-bde6-6e22239af9a0.png" width="32" height="32"> <br />
 Ravenclaw <img src="https://user-images.githubusercontent.com/100456553/221447058-11a80ffb-9236-46d2-b349-9059387e8d39.png" width="30" height="30"> <br />
-slytherin <img src="https://user-images.githubusercontent.com/100456553/221447029-a621047b-b5c4-4ece-965e-4d9b6c8038bd.png" width="30" height="30"> <br />
+Slytherin <img src="https://user-images.githubusercontent.com/100456553/221447029-a621047b-b5c4-4ece-965e-4d9b6c8038bd.png" width="30" height="30"> <br />
 
 
 # Android Studio
 ## .xml sections
 ### Jump on to .xml sections in Android Studio for app design <br />
 
-activity_main.xml -> which is the design for the first page when a user opens the app <br />
+activity_main.xml -> which is the design for the first page when a user opens the app. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_main.xml
 
-activity_quiz_questions.xml -> which is the design for questions sections <br />
+activity_quiz_questions.xml -> which is the design for questions sections. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_quiz_questions.xml
 
-activity_result.xml -> which is the last design page that shows the user what house they are sorted to <br />
+activity_result.xml -> which is the last design page that shows the user what house they are sorted into. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_result.xml
 
 ## .java sections
@@ -45,7 +45,7 @@ First, it asks a user to enter their name.
   <img src="https://user-images.githubusercontent.com/100456553/227700044-8814755f-133e-4b2a-899f-52525dc7a811.png" width=100" height="210" /> 
 </p>
 __________________________________________________________________________ <br />
-<br /> After the user presses enter bottom, it will start sorting them to their house by asking them some questions.
+<br /> After the user presses enter, it will start sorting them into their house by asking them some questions.
 <p along="left">
   <img src="https://user-images.githubusercontent.com/100456553/227700073-4d6f22ab-19fe-462d-9c4d-7e609a75021e.png" width="100" height="210" />
   <img src="https://user-images.githubusercontent.com/100456553/227700086-b8c8ed78-f339-4a4e-83d7-a900d4640095.png" width="100" height="210" /> 
