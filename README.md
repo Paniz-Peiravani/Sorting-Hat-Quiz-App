@@ -41,10 +41,10 @@ https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/ja
 # App Overview
 First, it asks a user to enter their name.
 <p along="left">
-  <img src="https://user-images.githubusercontent.com/100456553/227699864-42e4ce59-22cb-4588-8426-5146c23340c5.png" width="90" height="200" />
-  <img src="https://user-images.githubusercontent.com/100456553/227700044-8814755f-133e-4b2a-899f-52525dc7a811.png" width="90" height="200" /> 
+  <img src="https://user-images.githubusercontent.com/100456553/227699864-42e4ce59-22cb-4588-8426-5146c23340c5.png" width="100" height="210" />
+  <img src="https://user-images.githubusercontent.com/100456553/227700044-8814755f-133e-4b2a-899f-52525dc7a811.png" width=100" height="210" /> 
 </p>
-__________________________________________________________________________
+__________________________________________________________________________ <br />
 After the user presses enter bottom, it will start sorting them to their house by asking them some questions.
 <p along="left">
   <img src="https://user-images.githubusercontent.com/100456553/227700073-4d6f22ab-19fe-462d-9c4d-7e609a75021e.png" width="90" height="200" />
@@ -52,7 +52,7 @@ After the user presses enter bottom, it will start sorting them to their house b
   <img src="https://user-images.githubusercontent.com/100456553/227700094-4ebd32fc-b96d-42b9-bbdf-54faa939b9ca.png" width="90" height="200" /> 
   <img src="https://user-images.githubusercontent.com/100456553/227700109-03ecc882-ff0f-4693-b228-f3eda5802849.png" width="90" height="200" /> 
 </p>
-__________________________________________________________________________
+__________________________________________________________________________ <br />
 After the user answered the last question, it will sort them to their house and shows the result.
 <img src="https://user-images.githubusercontent.com/100456553/227700125-e8de7c26-7145-4faf-a436-345a472006cd.png" width="90" height="200" />
 
