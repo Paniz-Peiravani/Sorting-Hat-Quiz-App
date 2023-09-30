@@ -12,9 +12,9 @@ slytherin <img src="https://user-images.githubusercontent.com/100456553/22144702
 
 # Android Studio
 ## .xml sections
-### Jump on to xml sections in android studio for app design <br />
+### Jump on to .xml sections in Android Studio for app design <br />
 
-activity_Mai.xml -> which is the design for the first page when a user opens the app <br />
+activity_main.xml -> which is the design for the first page when a user opens the app <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_main.xml
 
 activity_quiz_questions.xml -> which is the design for questions sections <br />
