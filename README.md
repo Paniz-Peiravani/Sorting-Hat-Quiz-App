@@ -24,18 +24,18 @@ activity_result.xml -> which is the last design page that shows the user what ho
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/res/layout/activity_result.xml
 
 ## .java sections
-### Jump on to .java in android studio for java classes <br />
+### Jump on to .java in android studio for java classes. <br />
 
-MainActivity.java -> which is class for first window of the app that ask the user name to show at the end <br />
+MainActivity.java -> which is class for first window of the app that ask the user name to show at the end. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/MainActivity.java
 
-Questions.java ->Questions and Answers class that contains getter and setter <br />
+Questions.java ->Questions and Answers class that contains getter and setter. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
 
-QuizQuestionsActivity.java -> Display the questions class <br />
+QuizQuestionsActivity.java -> Display the questions class. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
 
-ResultActivity.java -> Sorting the Hogwarts house and show the result
+ResultActivity.java -> Sorting the Hogwarts house and show the result. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/ResultActivity.java
 
 # App Overview
