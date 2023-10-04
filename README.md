@@ -9,7 +9,7 @@ Hufflepuff <img src="https://user-images.githubusercontent.com/100456553/2214476
 Ravenclaw <img src="https://user-images.githubusercontent.com/100456553/221447058-11a80ffb-9236-46d2-b349-9059387e8d39.png" width="30" height="30"> <br />
 Slytherin <img src="https://user-images.githubusercontent.com/100456553/221447029-a621047b-b5c4-4ece-965e-4d9b6c8038bd.png" width="30" height="30"> <br />
 
-
+After answering all the questions, the Sorting Hat will determine your house based on your responses.
 # Android Studio
 ## .xml sections
 ### Jump on to .xml sections in Android Studio for app design <br />
