@@ -1,5 +1,5 @@
 # Sorting Hat Quiz App
-Welcome to Hogward! <img src="https://user-images.githubusercontent.com/100456553/221447115-716391c9-f828-491b-b34e-91ec53f2dc45.png" width="50" height="50"> <br />
+Welcome to Hogwarts! <img src="https://user-images.githubusercontent.com/100456553/221447115-716391c9-f828-491b-b34e-91ec53f2dc45.png" width="50" height="50"> <br />
 
 Want to know which Hogwarts House you would fall into? Come and let the Sorting Hat <img src="https://user-images.githubusercontent.com/100456553/221446502-4b2115f4-64f4-4859-b603-f620a60d5213.png" width="35" height="35"> cast judgment upon you! <br />
 
