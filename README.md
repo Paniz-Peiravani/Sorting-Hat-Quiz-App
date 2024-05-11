@@ -34,7 +34,7 @@ Questions.java ->Questions and Answers class that contains getter and setter. <b
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
 
 QuizQuestionsActivity.java -> Display the questions class. <br />
-https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/Questions.java
+https://github.com/Paniz-Peiravani/Sorting-Hat-Quiz-App/blob/master/app/src/main/java/com/example/sortinghat/QuizQuestionsActivity.java
 
 ResultActivity.java -> Sorting the Hogwarts house and show the result. <br />
 https://github.com/Paniz-Peiravani/SortingHatQuizApp/blob/master/app/src/main/java/com/example/sortinghat/ResultActivity.java
